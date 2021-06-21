@@ -1,4 +1,4 @@
-module github.com/ChainSafe/chainbridge-substrate-events
+module github.com/tearust/chainbridge-substrate-events
 
 go 1.13
 
